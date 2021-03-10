@@ -1,0 +1,11 @@
+{
+  "firstName": "Samuel L",
+  "lastName": "Jackson",
+  "email": "sljackson@ggmail.com",
+  "profileImgUrl" : "https://picsum.photos/id/237/200/300",
+  "active": true,
+  "role": "Sr Developer",
+  "branch": "Arlington",
+  "team": "Fantastic 4",
+  "phone": "+18175563469"
+}

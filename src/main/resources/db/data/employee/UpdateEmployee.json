@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "firstName": "Maria Del Mar",
+  "lastName": "Nchamita",
+  "email": "nahana@gecomsa.gq",
+  "profileImgUrl" : "https://picsum.photos/id/237/200/300",
+  "active": true,
+  "role": "UI Developer",
+  "branch": "Malabo",
+  "team": "Fantastic 4",
+  "phone": "+12145563369",
+  "batchCode": "4f006916-2e73-46b7-a77b-31aeee99a95f"
+}

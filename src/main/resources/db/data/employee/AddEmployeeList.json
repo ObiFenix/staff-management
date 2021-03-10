@@ -1,0 +1,90 @@
+[
+  {
+    "firstName": "Maria Del Mar",
+    "lastName": "Nchama",
+    "email": "nahana@gecomsa.com",
+    "profileImgUrl" : "https://picsum.photos/id/237/200/300",
+    "active": true,
+    "role": "UI Developer",
+    "branch": "Dallas",
+    "team": "Fantastic 4",
+    "phone": "+12105563369"
+  },
+  {
+    "firstName": "Rogelio",
+    "lastName": "Obiang",
+    "email": "robiang@gmail.com",
+    "profileImgUrl" : "https://picsum.photos/200/300?grayscale",
+    "active": false,
+    "role": "IL Developer",
+    "branch": "Denton",
+    "team": "GameLoaners",
+    "phone": "+12141160099"
+  },
+  {
+    "firstName": "Eucario",
+    "lastName": "Bacale",
+    "email": "ebacale@gmail.com",
+    "profileImgUrl" : "https://picsum.photos/200/300.jpg",
+    "active": true,
+    "role": "IL Developer",
+    "branch": "New York",
+    "team": "Heroes",
+    "phone": "+12022008566"
+  },
+  {
+    "firstName": "Maria Teresa",
+    "lastName": "Nguema",
+    "email": "mnguema.contractor@gmail.com",
+    "profileImgUrl" : "https://picsum.photos/id/237/200/300",
+    "active": true,
+    "role": "UX Developer",
+    "branch": "London",
+    "team": "CreditCleaners",
+    "phone": "+12143147793"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Villagran",
+    "email": "fetchers.contractor@gmail.com",
+    "profileImgUrl" : "https://picsum.photos/200/300?grayscale",
+    "active": true,
+    "role": "IL Developer",
+    "branch": "Houston",
+    "team": "Fetchers",
+    "phone": "+18177777793"
+  },
+  {
+    "firstName": "Jacqueline",
+    "lastName": "Obiang",
+    "email": "jobiang@stats.fr",
+    "profileImgUrl" : "https://picsum.photos/200/300/?blur=2",
+    "active": true,
+    "role": "UX Developer",
+    "branch": "Crowley",
+    "team": "GreenLanterns",
+    "phone": "+18175579595"
+  },
+  {
+    "firstName": "Ismael",
+    "lastName": "Mbana",
+    "email": "mismael.contractor@hotmail.fr",
+    "profileImgUrl" : "https://picsum.photos/200/300.jpg",
+    "active": true,
+    "role": "UI Developer",
+    "branch": "Saint Louis",
+    "team": "CDSaints",
+    "phone": "+14045077793"
+  },
+  {
+    "firstName": "Geremias",
+    "lastName": "Abdula",
+    "email": "gabdula@yahoo.es",
+    "profileImgUrl" : "https://picsum.photos/id/237/200/300",
+    "active": false,
+    "role": "UI Developer",
+    "branch": "Miami",
+    "team": "Heaters",
+    "phone": "+13132335563"
+  }
+]
